@@ -1,6 +1,6 @@
 
 ## 👋 Introduction
-* Welcome to my portfolio website! This project showcases my skills, experiences, and projects in the field of [insert relevant field or industry]. Whether you're a potential employer, collaborator, or just curious about my work, this platform provides a comprehensive overview of my capabilities.
+* Welcome to my portfolio website! This project showcases my skills, experiences, and projects in the field of Web Devlopment && Graphic Design . Whether you're a potential employer, collaborator, or just curious about my work, this platform provides a comprehensive overview of my capabilities.
 
  
 ## 🗝️ Key Highlights
